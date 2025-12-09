@@ -1,9 +1,9 @@
-# Final - Ingenier¡a 
+# Final - Ingenieria 
  
 **Alumno:** Pauwels, Gaston Camilo 
 **DNI:** 46007864  echo. 
-## Descripci¢n 
-Proyecto m¡nimo entregable: HTML simple servido por Nginx en Docker. 
+## Descripcion 
+Proyecto minimo entregable: HTML simple servido por Nginx en Docker. 
  
 ## Archivos incluidos 
 - index.html 
